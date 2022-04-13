@@ -1,1 +1,1 @@
-### Mount-Kenya-University-Bioinformatics-workshop-2022
+- This repository contains information of a training I conducted together with Dr. Mutakai and Kennedy Mwangi
