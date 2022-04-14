@@ -1,1 +1,1 @@
-This repository contains information of a training I facilitated together with [Dr. Ngara Mtakai](https://www.ludc.lu.se/mtakai-ngara) and [Kennedy Mwangi] (https://github.com/wanjauk?tab=repositories). It is an easy to follow write-up to understand RNA-Seq pipeline
+This repository contains information of a training I facilitated together with [Dr. Ngara Mtakai](https://www.ludc.lu.se/mtakai-ngara) and [Kennedy Mwangi](https://github.com/wanjauk?tab=repositories). It is an easy to follow write-up to understand RNA-Seq pipeline
