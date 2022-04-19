@@ -80,8 +80,8 @@ conda activate mapping
 
 # Align the reads to the reference chromosome 2 genome
 hisat2 -q -x genome_index/hg38_chr2_genome \
-       -1 data/trimmed/GSM1275862_R1.fastq.gz \
-       -2 data/trimmed/GSM1275862_R2.fastq.gz \
+       -1 trimmed/GSM1275862_R1.fastq.gz \
+       -2 trimmed/GSM1275862_R2.fastq.gz \
        -S mappings/GSM1275862.sam
 
 # Sort the alignment
